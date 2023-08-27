@@ -21,7 +21,7 @@ export default function Home({ allPostsData  }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>03生まれ 福岡生まれHIPHOP育ち 悪い奴は大体友達</p>
+        <p>03line 福岡生まれHIPHOP育ち 悪い奴は大体友達</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
